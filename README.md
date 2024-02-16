@@ -6,3 +6,10 @@ A launcher/bootstrapper I dont really know (mainly made for me for a quick templ
 
 # About!
 I don't know what to really call it, but its mainly a launcher where you press one button, and as long as you have git installed it will copy a game template to the root folder of the project. And in the future I also want to add a button where you can put in a repository of your choice and it will automatically copy it.
+
+# How to install/Use (more in depth)
+Install git,
+
+Install the xeroxv1.zip,
+
+open .exe,
